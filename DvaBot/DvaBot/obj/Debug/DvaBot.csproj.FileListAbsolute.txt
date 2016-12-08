@@ -17,3 +17,6 @@ C:\Users\Elev\Documents\GitHub\TextGame\DvaBot\DvaBot\bin\Debug\RestSharp.xml
 C:\Users\Elev\Documents\GitHub\TextGame\DvaBot\DvaBot\obj\Debug\DvaBot.csprojResolveAssemblyReference.cache
 C:\Users\Elev\Documents\GitHub\TextGame\DvaBot\DvaBot\obj\Debug\DvaBot.exe
 C:\Users\Elev\Documents\GitHub\TextGame\DvaBot\DvaBot\obj\Debug\DvaBot.pdb
+C:\Users\TheSquidBorn\Documents\GitHub\Discord-Bots\DvaBot\DvaBot\bin\Debug\DvaBot.exe.config
+C:\Users\TheSquidBorn\Documents\GitHub\Discord-Bots\DvaBot\DvaBot\obj\Debug\DvaBot.exe
+C:\Users\TheSquidBorn\Documents\GitHub\Discord-Bots\DvaBot\DvaBot\obj\Debug\DvaBot.pdb

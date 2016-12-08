@@ -78,14 +78,21 @@ namespace DvaBot
                         //annie
                         Console.WriteLine("{0}Rated Annie", Time());
 
-                        await e.Channel.SendMessage("TEODOR.");
+                        await e.Channel.SendMessage("LEIF GW VET VAR DU BOR");
                     }
                     else if (e.User.Id == 196002504318648320)
                     {
                         //valter
                         Console.WriteLine("{0}Rated Valter", Time());
 
-                        await e.Channel.SendMessage("FURRY");
+                        await e.Channel.SendMessage("U should buy rust");
+                    }
+                    else if (e.User.Id == 216948214396354560)
+                    {
+                        //valter
+                        Console.WriteLine("{0}Rated Emma", Time());
+
+                        await e.Channel.SendMessage("No hugs 4 u");
                     }
                     else
                     {
