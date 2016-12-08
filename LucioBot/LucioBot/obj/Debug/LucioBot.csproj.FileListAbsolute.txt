@@ -1,0 +1,2 @@
+C:\Users\Elev\Documents\GitHub\TextGame\LucioBot\LucioBot\bin\Debug\LucioBot.exe.config
+C:\Users\Elev\Documents\GitHub\TextGame\LucioBot\LucioBot\obj\Debug\LucioBot.csprojResolveAssemblyReference.cache
