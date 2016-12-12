@@ -90,6 +90,18 @@ namespace TeodorBot
                     //take the 100 latest messages and put them in the array
                     messagesToDelete = await e.Channel.DownloadMessages(100);
 
+                    //check for pinned messages
+                    int n = messagesToDelete.Length;
+                    while (n > 0)
+                    {
+                        Message x = messagesToDelete[n];
+                        if (x.IsPinned == true)
+                        {
+                           messagesToDelete[n]
+                        }
+                        
+                    }
+
                     //delete all the messages in the array 
                     await e.Channel.DeleteMessages(messagesToDelete);
 
