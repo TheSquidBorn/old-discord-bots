@@ -115,4 +115,4 @@ namespace TeodorBot
     }
 }
 
-testm
+// ANDVÄND COMMENTS DIN  LILLA KUKMUMRIK SKA FAN  SÄNDA SÄPO PÅ DIG
