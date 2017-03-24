@@ -11,7 +11,6 @@ namespace TeodorBot
         static void Main(string[] args)
         {
             Bot bot0 = new Bot();
-            //Dva bot1 = new Dva();
         }
     }
 }

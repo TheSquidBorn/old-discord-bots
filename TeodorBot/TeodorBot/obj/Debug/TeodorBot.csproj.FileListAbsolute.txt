@@ -44,3 +44,9 @@ C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\RestSh
 C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\obj\Debug\TeodorBot.csprojResolveAssemblyReference.cache
 C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\obj\Debug\TeodorBot.exe
 C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\obj\Debug\TeodorBot.pdb
+C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Elev\Documents\GitHub\Discord-Bots\TeodorBot\TeodorBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml

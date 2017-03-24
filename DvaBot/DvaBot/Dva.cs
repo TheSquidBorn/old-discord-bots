@@ -47,6 +47,9 @@ namespace DvaBot
                         Console.WriteLine("{0}{1}Nerfed this.", Time(), e.Message.User);
 
                         await e.Channel.SendTTSMessage("NERF DIS");
+
+                        System.Threading.Thread.Sleep(3000);
+
                         await e.Channel.SendMessage("!purge");
                     }
                     else
