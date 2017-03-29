@@ -1,0 +1,3 @@
+BUGS:
+- Disconnects every two minutes on my laptop
+- !purge doesn't work well on some WiFi's

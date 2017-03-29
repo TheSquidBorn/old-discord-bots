@@ -121,11 +121,6 @@ namespace TeodorBot
                     Message[] messagesToDelete;
 
                     //take the 100 latest messages and put them in the array
-                    ///
-                    /// BUGS
-                    /// - Problems with to little messages
-                    /// - Sometimes nothing happens
-                    ///
                     messagesToDelete = await e.Channel.DownloadMessages(100);
 
                     //delete all the messages in the array  and tell Console who purged
